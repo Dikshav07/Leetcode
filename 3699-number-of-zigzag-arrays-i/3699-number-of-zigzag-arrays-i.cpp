@@ -1,55 +1,23 @@
 class Solution {
 public:
-    static constexpr int MOD = 1000000007;
-
     int zigZagArrays(int n, int l, int r) {
-        int m = r + 2;
-        vector<vector<long long>> vec(m, vector<long long>(2, 0));
-        for (int val=l; val <= r; ++val) {
-            vec[val][0] = 1;
-            vec[val][1] = 1;
-        }
-
-        vector<long long> lp(m, 0);
-        vector<long long> gp(m, 0);
-
-        for (int val = l; val <= r; ++val) {
-            lp[val + 1] =
-                (lp[val] + vec[val][0]) % MOD;
-
-            gp[val + 1] =
-                (gp[val] + vec[val][1]) % MOD;
-        }
-
-        for (int len=2; len<=n; ++len) {
-            vector<long long> nexl(m, 0);
-            vector<long long> nexg(m, 0);
-
-            long long sum = gp[r + 1];
-
-            for (int i=l; i<=r; ++i) {
-                vec[i][0] = lp[i] % MOD;
-
-                vec[i][1] =(sum- gp[i+1] + MOD) % MOD;
-
-                nexl[i+1] =(nexl[i] + vec[i][1]) % MOD;
-
-                nexg[i+1] =
-                    (nexg[i] +vec[i][0]) % MOD;
+        long long mod=1e9+7,res=0;
+        vector<vector<long long>>dp(2,vector<long long>(r+5));
+        vector<vector<long long>>ndp(2,vector<long long>(r+5));
+        for(int j=l;j<=r;++j)dp[0][j]=dp[1][j]=1;
+        for(int i=n-2;~i;--i)
+        {
+            vector<long long>pref(r+5),suff(r+5);
+            for(int j=l;j<=r;++j)pref[j]=(pref[j-1]+dp[1][j])%mod;
+            for(int j=r;j>=l;--j)suff[j]=(suff[j+1]+dp[0][j])%mod;
+            for(int j=l;j<=r;++j)
+            {
+                ndp[0][j]=pref[j-1]%mod;
+                ndp[1][j]=suff[j+1]%mod;
             }
-
-
-            lp.swap(nexl);
-            gp.swap(nexg);
+            swap(dp,ndp);
         }
-
-        long long ans = 0;
-        for (int i=l; i<=r; ++i) {
-            ans=(ans + vec[i][0] + vec[i][1]) % MOD;
-        }
-
-
-
-        return ans;
+        for(int j=l;j<=r;++j)res=(res+dp[0][j]+dp[1][j])%mod;
+        return res;
     }
 };
