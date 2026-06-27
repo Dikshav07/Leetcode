@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dikshav07/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dikshav07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dikshav07/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dikshav07/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dikshav07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
