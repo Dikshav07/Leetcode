@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
+| [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dikshav07/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dikshav07/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dikshav07/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dikshav07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dikshav07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dikshav07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dikshav07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Dikshav07/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dikshav07/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dikshav07/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
