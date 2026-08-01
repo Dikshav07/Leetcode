@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
+| [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dikshav07/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dikshav07/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dikshav07/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
