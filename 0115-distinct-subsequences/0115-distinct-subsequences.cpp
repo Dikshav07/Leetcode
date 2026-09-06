@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int dp[1001][1001];
-    int solve(string s,string t,int i,int j){
-        if( j>=t.size()) return 1;
-        if(i>=s.size()) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        if(s[i]==t[j]){
-            return dp[i][j]=solve(s,t,i+1,j+1)+solve(s,t,i+1,j);
-        }
-        return dp[i][j]=solve(s,t,i+1,j);
-    }
     int numDistinct(string s, string t) {
-        memset(dp,-1,sizeof(dp));
-        return solve(s,t,0,0);
+        int MOD = 1e9 + 7;
+        int n = s.size(), m = t.size();
+        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        for(int i = 0;i<=n;i++){
+            dp[i][0] = 1;
+        }
+        for(int i =0;i<n;i++){
+            for(int j =0;j<m;j++){
+                if(s[i]==t[j]){
+                    dp[i+1][j+1] = (dp[i][j] % MOD + dp[i][j+1] % MOD)% MOD;
+                }
+                else{
+                    dp[i+1][j+1] = dp[i][j+1];
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
