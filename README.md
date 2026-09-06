@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Dikshav07/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dikshav07/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dikshav07/Leetcode/tree/master/1140-stone-game-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Dikshav07/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Dikshav07/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
