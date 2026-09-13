@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dikshav07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Dikshav07/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Dikshav07/Leetcode/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Dikshav07/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1140-stone-game-ii](https://github.com/Dikshav07/Leetcode/tree/master/1140-stone-game-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/Dikshav07/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Dikshav07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dikshav07/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dikshav07/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
