@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Dikshav07/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Dikshav07/Leetcode/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dikshav07/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dikshav07/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
