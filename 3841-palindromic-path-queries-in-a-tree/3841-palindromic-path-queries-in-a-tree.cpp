@@ -7,7 +7,7 @@ public:
             adj[it[0]].push_back(it[1]);
             adj[it[1]].push_back(it[0]);
         }
-        int lg=1;
+        int lg=0;
         while((1<<lg)<=n)lg++;
         vector<vector<int>>up(lg,vector<int>(n,0));
         vector<int>depth(n,0),In(n),Out(n),sz(n,1);
