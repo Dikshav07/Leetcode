@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dikshav07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dikshav07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dikshav07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Dikshav07/Leetcode/tree/master/0877-stone-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dikshav07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dikshav07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
