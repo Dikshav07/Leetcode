@@ -8,13 +8,13 @@ public:
         int minCost = 1e9;
         for(int d = 1; d < len; d++)
         {
-            if(len % d != 0)
+            if(len%d!=0)
             continue;
 
             int cost = 0;
-            for(int group = 0; group < d; group++)
+            for(int gp = 0; gp < d; gp++)
             {
-                int l = start + group;
+                int l = start+gp;
                 int r = l + (len/d - 1) * d;
 
                 while(l < r)
@@ -39,7 +39,7 @@ public:
         vector<vector<int>> costMemo(n, vector<int>(n, 1e9));
         for(int i = 0; i < n; i++)
         {
-            for(int j = i+1; j < n; j++)
+            for(int j = i+1; j<n; j++)
             {
                 costMemo[i][j] = getMinCost(s, i, j);
             }
