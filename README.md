@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dikshav07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Dikshav07/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dikshav07/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dikshav07/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dikshav07/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Dikshav07/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dikshav07/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
