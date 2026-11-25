@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Dikshav07/Leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dikshav07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/Dikshav07/Leetcode/tree/master/1872-stone-game-viii) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dikshav07/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dikshav07/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dikshav07/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dikshav07/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dikshav07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dikshav07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dikshav07/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dikshav07/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dikshav07/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dikshav07/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dikshav07/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dikshav07/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dikshav07/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Dikshav07/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dikshav07/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dikshav07/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dikshav07/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dikshav07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
