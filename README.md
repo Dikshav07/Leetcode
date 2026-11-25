@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Dikshav07/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0090-subsets-ii](https://github.com/Dikshav07/Leetcode/tree/master/0090-subsets-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dikshav07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0609-find-duplicate-file-in-system](https://github.com/Dikshav07/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Dikshav07/Leetcode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Dikshav07/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dikshav07/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dikshav07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dikshav07/Leetcode/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Dikshav07/Leetcode/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dikshav07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
