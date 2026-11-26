@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Dikshav07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dikshav07/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Dikshav07/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Dikshav07/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dikshav07/Leetcode/tree/master/0486-predict-the-winner) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dikshav07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dikshav07/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Dikshav07/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dikshav07/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dikshav07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -492,11 +494,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dikshav07/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dikshav07/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dikshav07/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dikshav07/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dikshav07/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
@@ -537,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Dikshav07/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dikshav07/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
